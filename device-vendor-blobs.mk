@@ -18,7 +18,7 @@
 #PRODUCT_COPY_FILES := \
 #    vendor/malata/smba1002/proprietary/proprietary/libsecril-client.so:obj/lib/libsecril-client.so
 
-# All the blobs necessary for ADAM
+# All the blobs necessary for SMBA1002
 PRODUCT_COPY_FILES := \
     vendor/malata/smba1002/proprietary/lib/egl/libEGL_perfhud.so:system/lib/egl/libEGL_perfhud.so \
     vendor/malata/smba1002/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
