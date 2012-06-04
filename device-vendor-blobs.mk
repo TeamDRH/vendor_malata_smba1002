@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES := \
     vendor/malata/smba1002/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
     vendor/malata/smba1002/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
     vendor/malata/smba1002/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
-    vendor/malata/smba1002/proprietary/lib/hw/wlan/bcm4329B1.hcd:system/lib/hw/wlan/bcm4329B1.hcd \
     vendor/malata/smba1002/proprietary/lib/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
     vendor/malata/smba1002/proprietary/lib/libcgdrv.so:system/lib/libcgdrv.so \
     vendor/malata/smba1002/proprietary/lib/libnvapputil.so:system/lib/libnvapputil.so \
